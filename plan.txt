@@ -1,0 +1,4 @@
+1. Eksempel: Chat
+2. Dele opp i separat prosjekt med Chat Server
+3. Dependency Inversion generelt
+4. Anvende Dependency Inversion for separat Chat Server
