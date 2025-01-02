@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineCounter", "LineCounter\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat.Server", "Chat.Server\Chat.Server.csproj", "{266D21D3-2E1A-48AB-AAAF-7CCDCB479C2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineCounter.Test", "LineCounter.Test\LineCounter.Test.csproj", "{04D409EC-DD5C-4418-90DB-95ADBD64FAE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{266D21D3-2E1A-48AB-AAAF-7CCDCB479C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{266D21D3-2E1A-48AB-AAAF-7CCDCB479C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{266D21D3-2E1A-48AB-AAAF-7CCDCB479C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04D409EC-DD5C-4418-90DB-95ADBD64FAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D409EC-DD5C-4418-90DB-95ADBD64FAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D409EC-DD5C-4418-90DB-95ADBD64FAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D409EC-DD5C-4418-90DB-95ADBD64FAE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

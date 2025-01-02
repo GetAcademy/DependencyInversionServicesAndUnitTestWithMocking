@@ -1,6 +1,6 @@
 ﻿namespace LineCounter
 {
-    internal class LineStats
+    public class LineStats
     {
         public string SearchText { get; }
         public int MatchingLineCount { get; }

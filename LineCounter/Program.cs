@@ -8,6 +8,7 @@ var service = new LineCountService(lineSource);
 var stats = service.GetStats("er");
 stats.Show();
 
+// Opprinnelig kode: 
 //using var reader = new StreamReader("vgsak.txt");
 //var searchText = "er";
 //var matchingLineCount = 0;

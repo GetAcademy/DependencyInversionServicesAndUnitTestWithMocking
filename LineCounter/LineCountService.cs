@@ -2,7 +2,7 @@
 
 namespace LineCounter
 {
-    internal class LineCountService
+    public class LineCountService
     {
         private readonly ILineSource _lineSource;
 
