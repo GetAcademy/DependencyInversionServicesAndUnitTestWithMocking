@@ -1,4 +1,5 @@
 ﻿using Chat;
+using Chat.Server;
 
 var server = new ChatServer();
 

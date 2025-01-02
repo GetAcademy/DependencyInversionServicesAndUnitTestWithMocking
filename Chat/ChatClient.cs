@@ -1,6 +1,8 @@
-﻿namespace Chat
+﻿using Chat.Server;
+
+namespace Chat.Client
 {
-    internal class ChatClient
+    internal class ChatClient : IChatClient
     {
         private readonly string _name;
         private readonly ChatServer _server;
