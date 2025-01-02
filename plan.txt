@@ -7,6 +7,6 @@ Chat og Dependency Inversion
 Telle linjer som inneholder bestemt tekst
 5. Intro til eksemplet
 6. Hvorfor bryter dette Single Responsibility Principle?
-7. Skrive om med Dependency Inversion og Dependency Injection
+7. Skrive om med Dependency Inversion og Dependency Injection - Service-klasse
 8. Andre linjer-kilder, manuell mock
 9. Unit testing og Moq-rammeverket
